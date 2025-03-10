@@ -31,3 +31,4 @@ e:\Projects\DyanmicDatabase\src\WebAPI\obj\Debug\net9.0\refint\WebAPI.dll
 e:\Projects\DyanmicDatabase\src\WebAPI\obj\Debug\net9.0\WebAPI.pdb
 e:\Projects\DyanmicDatabase\src\WebAPI\obj\Debug\net9.0\WebAPI.genruntimeconfig.cache
 e:\Projects\DyanmicDatabase\src\WebAPI\obj\Debug\net9.0\ref\WebAPI.dll
+e:\Projects\DyanmicDatabase\src\WebAPI\obj\Debug\net9.0\WebAPI.sourcelink.json

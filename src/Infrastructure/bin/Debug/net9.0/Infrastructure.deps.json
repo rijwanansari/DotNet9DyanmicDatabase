@@ -1289,7 +1289,8 @@
       "Application/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
-          "MediatR": "12.4.1"
+          "MediatR": "12.4.1",
+          "Microsoft.EntityFrameworkCore": "9.0.2"
         },
         "runtime": {
           "Application.dll": {

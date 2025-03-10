@@ -17,3 +17,4 @@ e:\Projects\DyanmicDatabase\src\Infrastructure\bin\Debug\net9.0\Domain.pdb
 e:\Projects\DyanmicDatabase\src\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
 E:\Projects\DyanmicDatabase\src\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
 E:\Projects\DyanmicDatabase\src\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+e:\Projects\DyanmicDatabase\src\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json

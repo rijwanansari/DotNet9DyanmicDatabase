@@ -13,3 +13,4 @@ e:\Projects\DyanmicDatabase\src\Application\bin\Debug\net9.0\Domain.dll
 e:\Projects\DyanmicDatabase\src\Application\bin\Debug\net9.0\Domain.pdb
 e:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
 E:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+e:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Application.sourcelink.json

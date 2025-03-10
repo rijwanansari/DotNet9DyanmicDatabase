@@ -9,3 +9,4 @@ e:\Projects\DyanmicDatabase\src\Domain\obj\Debug\net9.0\Domain.dll
 e:\Projects\DyanmicDatabase\src\Domain\obj\Debug\net9.0\refint\Domain.dll
 e:\Projects\DyanmicDatabase\src\Domain\obj\Debug\net9.0\Domain.pdb
 E:\Projects\DyanmicDatabase\src\Domain\obj\Debug\net9.0\ref\Domain.dll
+e:\Projects\DyanmicDatabase\src\Domain\obj\Debug\net9.0\Domain.sourcelink.json

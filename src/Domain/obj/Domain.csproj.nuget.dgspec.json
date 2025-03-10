@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Projects\\DyanmicDatabase\\src\\Domain\\Domain.csproj": {}
+    "E:\\Projects\\DyanmicDatabase\\src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "e:\\Projects\\DyanmicDatabase\\src\\Domain\\Domain.csproj": {
+    "E:\\Projects\\DyanmicDatabase\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Projects\\DyanmicDatabase\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Projects\\DyanmicDatabase\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "e:\\Projects\\DyanmicDatabase\\src\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Projects\\DyanmicDatabase\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "e:\\Projects\\DyanmicDatabase\\src\\Domain\\obj\\",
+        "outputPath": "E:\\Projects\\DyanmicDatabase\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
