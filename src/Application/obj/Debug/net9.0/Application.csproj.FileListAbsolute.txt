@@ -1,0 +1,15 @@
+E:\Projects\DyanmicDatabase\src\Application\bin\Debug\net9.0\Application.deps.json
+e:\Projects\DyanmicDatabase\src\Application\bin\Debug\net9.0\Application.dll
+e:\Projects\DyanmicDatabase\src\Application\bin\Debug\net9.0\Application.pdb
+e:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+e:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+e:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+e:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+e:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Application.dll
+e:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\refint\Application.dll
+e:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Application.pdb
+E:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\ref\Application.dll
+e:\Projects\DyanmicDatabase\src\Application\bin\Debug\net9.0\Domain.dll
+e:\Projects\DyanmicDatabase\src\Application\bin\Debug\net9.0\Domain.pdb
+e:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+E:\Projects\DyanmicDatabase\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
