@@ -2,6 +2,7 @@ using Infrastructure.Persistence;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
+using Application.Common.Interfaces;
 
 namespace Infrastructure;
 
@@ -35,6 +36,8 @@ public static class DependencyInjection
             }
 
         });
+        
+        services.AddScoped<IApplicationDbContext>(sp => sp.GetRequiredService<AppDbContext>());
 
         return services;
     }
